@@ -74,7 +74,7 @@ form {
     border-radius: 20px; /* Mas maliit na corner radius */
     font-size: 18px; /* Adjusted font size */
     line-height: 1.4;
-    margin-bottom: 30px;
+    margin-bottom: 60px;
     animation: slideFromBottom 1s ease-out;
     top: 3px;
     position: relative;
@@ -134,12 +134,12 @@ footer span a:hover {
 .profile-picture {
     display: block;
     margin-left: auto;
-    max-width: 400px;
-    width: 22%; /* Adjust this value as needed */
+    max-width: 500px;
+    width: 25%; /* Adjust this value as needed */
     position: absolute;
-    right: 100px;
-    top: 369px;
-    margin-left: 100px;
+    right: 50px;
+    top: 329px;
+    margin-left: 
 }
 
 /* Media query to hide the image on smaller screens */
